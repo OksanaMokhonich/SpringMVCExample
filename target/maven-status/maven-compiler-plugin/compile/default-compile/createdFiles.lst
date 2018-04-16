@@ -1,0 +1,6 @@
+mokhonich\etity\Student.class
+mokhonich\dao\StudentsDaoJPA.class
+mokhonich\service\StudentsServiceImpl.class
+mokhonich\dao\StudentsDao.class
+mokhonich\controller\HomeController.class
+mokhonich\service\StudentsService.class
